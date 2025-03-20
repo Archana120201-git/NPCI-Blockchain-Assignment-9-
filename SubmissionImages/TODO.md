@@ -1,1 +1,1 @@
-This folder is for storing execution screenshots
+This folder is for storing execution screenshots.
